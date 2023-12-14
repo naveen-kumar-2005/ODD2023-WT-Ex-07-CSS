@@ -225,7 +225,7 @@ Run this html code in browser and observe the changes when you change the size o
 STEP6:
 Take screenshots of the outputs and upload it
 
-CODE:7(iv)
+# CODE:7(iv)
 ```
 <!Doctype html>
 <html>
